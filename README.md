@@ -19,7 +19,7 @@ To run the Jupyter notebook:
 - `Markowitz Optimization Model`: Functions to find the portfolio that minimizes variance for a given return.
 
 ## How to Use
-Run the cells in `PortfolioOptimization.ipynb` sequentially to:
+Run the cells in `RLPortfolioOptimization.ipynb` sequentially to:
 1. Initialize the environment and simulate returns.
 2. Configure and run the Q-learning algorithm.
 3. Perform Markowitz optimization.
