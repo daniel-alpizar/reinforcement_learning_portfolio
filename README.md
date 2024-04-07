@@ -32,7 +32,3 @@ Our findings show that the RL agent can effectively learn and adapt its policy t
 - Allocation comparison between Q-learning and Markowitz methods.
 - Cumulative returns of the final RL policy vs. Markowitz allocation.
 - Evolution of the RL policy over training episodes.
-- References include "Machine Learning in Finance: From Theory to Practice" by Dixon, M.F., et al., and advanced data modelling literature by Swishchuk, A.
-
-## Citation
-Please cite this project as follows:
