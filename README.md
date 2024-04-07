@@ -32,3 +32,5 @@ Our findings show that the RL agent can effectively learn and adapt its policy t
 - Allocation comparison between Q-learning and Markowitz methods.
 - Cumulative returns of the final RL policy vs. Markowitz allocation.
 - Evolution of the RL policy over training episodes.
+
+![RL Policy Evolution](RL_evolution.png)
